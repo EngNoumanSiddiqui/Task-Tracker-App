@@ -1,7 +1,5 @@
 # Task Tracker App
 
-## Usage
-
 ### Install dependencies
 
 ```
